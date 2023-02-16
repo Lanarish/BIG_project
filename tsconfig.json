@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "noImplicitAny": true,
+      "module": "ESNext",
+      "target": "es5",
+      "jsx": "react-jsx",
+      "allowJs": true,
+      "moduleResolution": "node",
+      // allow use imports instead of require(common js)
+      "esModuleInterop": true,
+      // allow use import without * as..
+      "allowSyntheticDefaultImports": true,
+    },
+    "ts-node": {
+        "compilerOptions": {
+          "module": "CommonJS"
+        }
+      },
+      "plugins": [
+        {
+          "name": "typescript-tslint-plugin", 
+        },
+      ],
+  }
