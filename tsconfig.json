@@ -11,6 +11,10 @@
       "esModuleInterop": true,
       // allow use import without * as..
       "allowSyntheticDefaultImports": true,
+      "baseUrl": ".",
+      "paths": {
+        "*": ["./src/*"]
+      },
     },
     "ts-node": {
         "compilerOptions": {
