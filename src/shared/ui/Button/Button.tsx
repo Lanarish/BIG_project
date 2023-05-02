@@ -22,7 +22,7 @@ export const Button:FC<ButtonProps> = (props) => {
     } = props;
 return (
 <button 
-className={classNames(cls.navbar, {}, [className, cls[theme]] )}
+className={classNames(cls.Button, {}, [className, cls[theme]] )}
 {...otherProps}>
 
 {children}
