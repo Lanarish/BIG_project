@@ -4,7 +4,6 @@ const MainPage = () => {
   const { t, i18n } = useTranslation('main');
   return (
       <div>
-
           {t('Main page')}
       </div>
   );
