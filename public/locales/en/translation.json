@@ -1,5 +1,7 @@
 {
   "Change language": "Change language",
   "Current language": "EN",
-  "NotFoundPage": "NotFoundPage"
+  "NotFoundPage": "NotFoundPage",
+  "translation.Something went wrong": "Something went wrong",
+  "translation.Refresh page": "Refresh page"
 }

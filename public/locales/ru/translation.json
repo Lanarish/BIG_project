@@ -1,5 +1,7 @@
 {
   "Change language": "Изменить язык",
   "Current language": "RU",
-  "NotFoundPage": "Страница не найдена"
+  "NotFoundPage": "Страница не найдена",
+  "translation.Something went wrong": "Произошла непредвиденная ошибка",
+  "translation.Refresh page": "Обновить страницу"
 }

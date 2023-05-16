@@ -1,6 +1,12 @@
 {
+  "": "",
   "Current language": "Current language",
   "Main page": "Main page",
   "NotFoundPage": "NotFoundPage",
+  "PageError": "PageError",
+  "Refresh page": "Refresh page",
+  "RefreshButton": "RefreshButton",
+  "Something went wrong": "Something went wrong",
+  "Throw error": "Throw error",
   "toggle": "переключить"
 }
