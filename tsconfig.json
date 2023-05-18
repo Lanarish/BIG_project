@@ -26,4 +26,7 @@
           "name": "typescript-tslint-plugin", 
         },
       ],
+      "include": [
+        "./config/jest/setupTests.ts"
+      ],
   }
